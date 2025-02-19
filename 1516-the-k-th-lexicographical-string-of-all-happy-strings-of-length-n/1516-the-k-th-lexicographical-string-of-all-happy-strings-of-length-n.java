@@ -1,21 +1,33 @@
 class Solution {
-    int n2;
-    public String getHappyString(int n, int k) {
-        n2 = n;
-        return dfs(new StringBuilder(), n, k);
-    }
-    public String dfs(StringBuilder prefix, int n, int k){
-        if (n == 0)
-            return prefix.toString();
-        for (char c = 'a'; c <= 'c'; c++) {
-            if (prefix.length() > 0 && c == prefix.charAt(prefix.length() - 1))
-                continue;
-            int cnt = (int) Math.pow(2, n2 - prefix.length() - 1);
-            if (cnt >= k)
-                return dfs(prefix.append(c), n - 1, k);
-            else
-                k -= cnt;
+    public void happyString(int idx,String s,int n,ArrayList<String> l)
+    {
+        if(s.length()==n)
+        {
+            l.add(s);
+            return;
         }
+
+        if(s.length()==0||s.charAt(s.length()-1)!='a')
+        happyString(idx+1,s+"a",n,l);
+        
+        if(s.length()==0||s.charAt(s.length()-1)!='b')
+        happyString(idx+1,s+"b",n,l);
+
+        if(s.length()==0||s.charAt(s.length()-1)!='c')
+        happyString(idx+1,s+"c",n,l);
+
+        return ;
+
+
+    }
+    public String getHappyString(int n, int k) {
+        ArrayList<String> arr = new ArrayList<>();
+
+        happyString(1,"",n,arr);
+
+        if(arr.size()<k)
         return "";
+
+        return arr.get(k-1);
     }
 }
