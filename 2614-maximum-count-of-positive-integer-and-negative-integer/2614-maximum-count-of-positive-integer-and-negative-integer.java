@@ -1,5 +1,5 @@
 class Solution {
-    public static int BS2(int[] nums, int k){
+    public int Bs(int[] nums,int k){
         int l=0;
         int h=nums.length-1;
         while(l<=h){
@@ -14,10 +14,9 @@ class Solution {
         return l;
     }
     public int maximumCount(int[] nums) {
-        int n=nums.length;
-        int c1=BS2(nums,1);
-        int c2=BS2(nums,0);
-        int res1=n-c1;
-        return Math.max(res1,c2);
+        int neg=Bs(nums,1);
+        int pos=Bs(nums,0);
+        int res=nums.length-neg;
+        return Math.max(res,pos);
     }
 }
