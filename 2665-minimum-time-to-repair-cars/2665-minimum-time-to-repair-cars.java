@@ -1,28 +1,25 @@
-import java.util.*;
-
 class Solution {
-    public boolean solve(long res, int[] ranks, int cars) {
-        long cnt = 0;
-        for (int rank : ranks) {
-            cnt += Math.sqrt((res * 1.0) / rank);
-        }
-        return cnt >= (long) cars;
-    }
-
     public long repairCars(int[] ranks, int cars) {
-        long low = 1;
-        long high = (long) Arrays.stream(ranks).max().getAsInt() * cars * cars;
-        long ans = high;
+        long left = 1, right = (long) Arrays.stream(ranks).min().getAsInt() * cars * cars;
 
-        while (low <= high) {
-            long mid = (low + high) / 2;
-            if (solve(mid, ranks, cars)) {
-                ans = mid;
-                high = mid - 1;
+        while (left < right) {
+            long mid = (left + right) / 2;
+            if (canRepairAll(ranks, cars, mid)) {
+                right = mid;
             } else {
-                low = mid + 1;
+                left = mid + 1;
             }
         }
-        return ans;
+
+        return left;
+    }
+
+    private boolean canRepairAll(int[] ranks, int cars, long time) {
+        long totalCarsRepaired = 0;
+        for (int rank : ranks) {
+            totalCarsRepaired += Math.sqrt(time / rank);
+            if (totalCarsRepaired >= cars) return true;
+        }
+        return false;
     }
 }
