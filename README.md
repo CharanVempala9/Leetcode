@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/CharanVempala9/Leetcode/tree/master/0066-plus-one) |
+| [0410-split-array-largest-sum](https://github.com/CharanVempala9/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/CharanVempala9/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/CharanVempala9/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/CharanVempala9/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/CharanVempala9/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1477-product-of-the-last-k-numbers](https://github.com/CharanVempala9/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/CharanVempala9/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3639-zero-array-transformation-i](https://github.com/CharanVempala9/Leetcode/tree/master/3639-zero-array-transformation-i) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/CharanVempala9/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/CharanVempala9/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Tree
 |  |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/CharanVempala9/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/CharanVempala9/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/CharanVempala9/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/CharanVempala9/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -200,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/CharanVempala9/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/CharanVempala9/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/CharanVempala9/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/CharanVempala9/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
