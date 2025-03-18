@@ -1,25 +1,25 @@
 class Solution {
     public static boolean ispossible(int[] nums, int k, int mid) {
         int sum = 0;
-        int cnt = 1; 
-
-        for (int i = 0; i < nums.length; i++) {
-            if (sum + nums[i] > mid) { 
-                sum = 0;
-                cnt++;  
-                if (cnt > k) return false;
+        k-=1;
+        for(int i=0; i<nums.length; i++){
+            int val=nums[i];
+            if(val>mid){
+                return false;
             }
-            sum += nums[i]; 
+            if(sum+val>mid){
+                k-=1;
+                sum=0;
+            }
+            sum+=nums[i];
+            if(k<0)
+            return false;
         }
-        return cnt <= k;
+        return true;
     }
 
     public int splitArray(int[] nums, int k) {
-        int l = 0, h = 0;
-        for (int num : nums) {
-            l = Math.max(l, num); 
-            h += num; 
-        }
+        int l = 0, h = (int)Math.pow(10,9);
 
         while (l <= h) {
             int mid = l + (h - l) / 2;
