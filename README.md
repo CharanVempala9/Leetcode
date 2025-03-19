@@ -24,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/CharanVempala9/Leetcode/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/CharanVempala9/Leetcode/tree/master/0682-baseball-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/CharanVempala9/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/CharanVempala9/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/CharanVempala9/Leetcode/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/CharanVempala9/Leetcode/tree/master/0682-baseball-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/CharanVempala9/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/CharanVempala9/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/CharanVempala9/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/CharanVempala9/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/CharanVempala9/Leetcode/tree/master/0066-plus-one) |
 | [0410-split-array-largest-sum](https://github.com/CharanVempala9/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0682-baseball-game](https://github.com/CharanVempala9/Leetcode/tree/master/0682-baseball-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/CharanVempala9/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/CharanVempala9/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/CharanVempala9/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
