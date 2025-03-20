@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/CharanVempala9/Leetcode/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/CharanVempala9/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/CharanVempala9/Leetcode/tree/master/0682-baseball-game) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/CharanVempala9/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/CharanVempala9/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/CharanVempala9/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/CharanVempala9/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/CharanVempala9/Leetcode/tree/master/2434-design-a-number-container-system) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/CharanVempala9/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/CharanVempala9/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Union Find
 |  |
