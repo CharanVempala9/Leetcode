@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/CharanVempala9/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/CharanVempala9/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1477-product-of-the-last-k-numbers](https://github.com/CharanVempala9/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/CharanVempala9/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/CharanVempala9/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/CharanVempala9/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/CharanVempala9/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
