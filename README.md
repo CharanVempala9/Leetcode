@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/CharanVempala9/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/CharanVempala9/Leetcode/tree/master/0049-group-anagrams) |
+| [0290-word-pattern](https://github.com/CharanVempala9/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/CharanVempala9/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/CharanVempala9/Leetcode/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/CharanVempala9/Leetcode/tree/master/0768-partition-labels) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/CharanVempala9/Leetcode/tree/master/0049-group-anagrams) |
+| [0290-word-pattern](https://github.com/CharanVempala9/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/CharanVempala9/Leetcode/tree/master/0383-ransom-note) |
 | [0768-partition-labels](https://github.com/CharanVempala9/Leetcode/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/CharanVempala9/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
