@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/CharanVempala9/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/CharanVempala9/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/CharanVempala9/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/CharanVempala9/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2825-minimize-string-length](https://github.com/CharanVempala9/Leetcode/tree/master/2825-minimize-string-length) |
 | [3447-clear-digits](https://github.com/CharanVempala9/Leetcode/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/CharanVempala9/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/CharanVempala9/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2434-design-a-number-container-system](https://github.com/CharanVempala9/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/CharanVempala9/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/CharanVempala9/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/CharanVempala9/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2825-minimize-string-length](https://github.com/CharanVempala9/Leetcode/tree/master/2825-minimize-string-length) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/CharanVempala9/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/CharanVempala9/Leetcode/tree/master/0383-ransom-note) |
 | [1160-letter-tile-possibilities](https://github.com/CharanVempala9/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [2308-divide-array-into-equal-pairs](https://github.com/CharanVempala9/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/CharanVempala9/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/CharanVempala9/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Greedy
 |  |
