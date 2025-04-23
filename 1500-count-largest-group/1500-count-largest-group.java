@@ -1,24 +1,20 @@
 class Solution {
     public int countLargestGroup(int n) {
-        HashMap<Integer,Integer>hm=new HashMap<>();
-        int max=Integer.MIN_VALUE;
-        for(int i=1; i<=n; i++){
-            int sum=0;
-            int temp=i;
-            while(temp>0){
-                int rem=temp%10;
-                sum+=rem;
-                temp=temp/10;
+        int[] cnt = new int[40];
+        int ans = 0, mx = 0;
+        for (int i = 1; i <= n; ++i) {
+            int s = 0;
+            for (int x = i; x > 0; x /= 10) {
+                s += x % 10;
             }
-            System.out.println(sum);
-            hm.put(sum,hm.getOrDefault(sum,0)+1);
-            max=Math.max(max,hm.get(sum));
+            ++cnt[s];
+            if (mx < cnt[s]) {
+                mx = cnt[s];
+                ans = 1;
+            } else if (mx == cnt[s]) {
+                ++ans;
+            }
         }
-        int cnt=0;
-        for(int val:hm.keySet()){
-            if(hm.get(val)==max)
-            cnt++;
-        }
-        return cnt;
+        return ans;
     }
 }
