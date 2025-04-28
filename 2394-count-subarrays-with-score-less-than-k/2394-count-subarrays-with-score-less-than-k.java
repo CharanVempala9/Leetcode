@@ -4,14 +4,13 @@ class Solution {
         int n=nums.length;
         int l=0;
         long sum=0;
-        ArrayList<Integer>ls=new ArrayList<>();
         for(int r=0; r<n; r++){
             sum+=nums[r];
-            ls.add(nums[r]);
-            while(sum*ls.size()>=k){
+            int len=r-l+1;
+            while(sum*len>=k){
                 sum-=nums[l];
-                ls.remove(0);
                 l++;
+                len=r-l+1;
             }
             ans+=r-l+1;
         }
