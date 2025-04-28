@@ -12,7 +12,7 @@ class Solution {
                 l++;
                 len=r-l+1;
             }
-            ans+=r-l+1;
+            ans+=len;
         }
         return ans;
     }
