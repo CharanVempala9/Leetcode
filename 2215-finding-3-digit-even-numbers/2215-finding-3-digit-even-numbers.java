@@ -8,22 +8,34 @@ class Solution {
         ArrayList<Integer>ls=new ArrayList<>();
         for(int i=100; i<=998; i++){
             HashMap<Integer,Integer>hm1=new HashMap<>(hm);
-            int temp=i;
-            boolean ans=true;
-            while(temp>0){
-                int rem=temp%10;
-                if(!hm1.containsKey(rem)){
-                    ans=false;
-                    break;
+            int a=i%10;
+            if(hm1.containsKey(a)){
+                hm1.put(a,hm1.get(a)-1);
+                if(hm1.get(a)==0)
+                hm1.remove(a);
+                int b=(i/10)%10;
+                if(hm1.containsKey(b)){
+                    hm1.put(b,hm1.get(b)-1);
+                    if(hm1.get(b)==0)
+                    hm1.remove(b);
+                    int c=(i/100)%10;
+                    if(hm1.containsKey(c)){
+                        hm1.put(c,hm1.get(c)-1);
+                        if(hm1.get(c)==0)
+                        hm1.remove(c);
+                    }
+                    else{
+                        continue;
+                    }
                 }
                 else{
-                    hm1.put(rem,hm1.get(rem)-1);
-                    if(hm1.get(rem)==0)
-                    hm1.remove(rem);
+                    continue;
                 }
-                temp=temp/10;
             }
-            if(ans && i%2==0)
+            else{
+                continue;
+            }
+            if(i%2==0)
             ls.add(i);
         }
         int size=ls.size();
