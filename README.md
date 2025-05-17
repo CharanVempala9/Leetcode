@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/CharanVempala9/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/CharanVempala9/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/CharanVempala9/Leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/CharanVempala9/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/CharanVempala9/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/CharanVempala9/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/CharanVempala9/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/CharanVempala9/Leetcode/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/CharanVempala9/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/CharanVempala9/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/CharanVempala9/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/CharanVempala9/Leetcode/tree/master/0054-spiral-matrix) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/CharanVempala9/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/CharanVempala9/Leetcode/tree/master/0053-maximum-subarray) |
 | [0368-largest-divisible-subset](https://github.com/CharanVempala9/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/CharanVempala9/Leetcode/tree/master/0392-is-subsequence) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/CharanVempala9/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/CharanVempala9/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/CharanVempala9/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/CharanVempala9/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/CharanVempala9/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/CharanVempala9/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CharanVempala9/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -527,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/CharanVempala9/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/CharanVempala9/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [3001-apply-operations-to-maximize-score](https://github.com/CharanVempala9/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Combinatorics
