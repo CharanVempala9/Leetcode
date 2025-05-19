@@ -1,9 +1,6 @@
 class Solution {
     public String triangleType(int[] nums) {
-        HashSet<Integer>hs=new HashSet<>();
-        for(int num:nums){
-            hs.add(num);
-        }
+        int n=nums.length;
         int a=nums[0];
         int b=nums[1];
         int c=nums[2];
@@ -11,13 +8,29 @@ class Solution {
         if((a+b)>c && (b+c)>a && (c+a)>b){
             valid=true;
         }
-        if(valid){
-        if(hs.size()==1)
-        return "equilateral";
-        else if(hs.size()==2)
-        return "isosceles";
-        return "scalene";
+        int[] arr=new int[101];
+        for(int i=0; i<n; i++){
+            arr[nums[i]]++;
         }
+        int ocnt=0;
+        int tcnt=0;
+        int thcnt=0;
+        for(int ar: arr){
+            if(ar==1)
+            ocnt++;
+            else if(ar==2)
+            tcnt++;
+            else if(ar==3)
+            thcnt++;
+        }
+        if(!valid)
         return "none";
+        else{
+            if(ocnt==3)
+            return "scalene";
+            else if(tcnt==1)
+            return "isosceles";
+            return "equilateral";
+        }
     }
 }
