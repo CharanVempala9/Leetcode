@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/CharanVempala9/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/CharanVempala9/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/CharanVempala9/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3879-find-minimum-log-transportation-cost](https://github.com/CharanVempala9/Leetcode/tree/master/3879-find-minimum-log-transportation-cost) |
 ## Data Stream
 |  |
 | ------- |
