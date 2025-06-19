@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/CharanVempala9/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/CharanVempala9/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/CharanVempala9/Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/CharanVempala9/Leetcode/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/CharanVempala9/Leetcode/tree/master/0409-longest-palindrome) |
 | [0768-partition-labels](https://github.com/CharanVempala9/Leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/CharanVempala9/Leetcode/tree/master/0868-push-dominoes) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/CharanVempala9/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/CharanVempala9/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/CharanVempala9/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0394-decode-string](https://github.com/CharanVempala9/Leetcode/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/CharanVempala9/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/CharanVempala9/Leetcode/tree/master/0682-baseball-game) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/CharanVempala9/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -654,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/CharanVempala9/Leetcode/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/CharanVempala9/Leetcode/tree/master/2050-count-good-numbers) |
 ## Binary Indexed Tree
 |  |
