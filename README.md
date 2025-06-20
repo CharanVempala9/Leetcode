@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/CharanVempala9/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/CharanVempala9/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/CharanVempala9/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/CharanVempala9/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/CharanVempala9/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/CharanVempala9/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/CharanVempala9/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/CharanVempala9/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/CharanVempala9/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/CharanVempala9/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/CharanVempala9/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/CharanVempala9/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/CharanVempala9/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/CharanVempala9/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
