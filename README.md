@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/CharanVempala9/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/CharanVempala9/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2825-minimize-string-length](https://github.com/CharanVempala9/Leetcode/tree/master/2825-minimize-string-length) |
+| [2887-sort-vowels-in-a-string](https://github.com/CharanVempala9/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/CharanVempala9/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/CharanVempala9/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/CharanVempala9/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/CharanVempala9/Leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2681-put-marbles-in-bags](https://github.com/CharanVempala9/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/CharanVempala9/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2887-sort-vowels-in-a-string](https://github.com/CharanVempala9/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/CharanVempala9/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/CharanVempala9/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/CharanVempala9/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
