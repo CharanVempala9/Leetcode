@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/CharanVempala9/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/CharanVempala9/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/CharanVempala9/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/CharanVempala9/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/CharanVempala9/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/CharanVempala9/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/CharanVempala9/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/CharanVempala9/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/CharanVempala9/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/CharanVempala9/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1500-count-largest-group](https://github.com/CharanVempala9/Leetcode/tree/master/1500-count-largest-group) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/CharanVempala9/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2107-find-unique-binary-string](https://github.com/CharanVempala9/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/CharanVempala9/Leetcode/tree/master/0383-ransom-note) |
 | [1160-letter-tile-possibilities](https://github.com/CharanVempala9/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/CharanVempala9/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/CharanVempala9/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/CharanVempala9/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/CharanVempala9/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/CharanVempala9/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
