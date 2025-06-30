@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/CharanVempala9/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/CharanVempala9/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/CharanVempala9/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2556-convert-the-temperature](https://github.com/CharanVempala9/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2610-closest-prime-numbers-in-range](https://github.com/CharanVempala9/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/CharanVempala9/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/CharanVempala9/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
