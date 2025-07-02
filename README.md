@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/CharanVempala9/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/CharanVempala9/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/CharanVempala9/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/CharanVempala9/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/CharanVempala9/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/CharanVempala9/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/CharanVempala9/Leetcode/tree/master/0038-count-and-say) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/CharanVempala9/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/CharanVempala9/Leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/CharanVempala9/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/CharanVempala9/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/CharanVempala9/Leetcode/tree/master/0052-n-queens-ii) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/CharanVempala9/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/CharanVempala9/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/CharanVempala9/Leetcode/tree/master/0053-maximum-subarray) |
 | [0368-largest-divisible-subset](https://github.com/CharanVempala9/Leetcode/tree/master/0368-largest-divisible-subset) |
