@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/CharanVempala9/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/CharanVempala9/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/CharanVempala9/Leetcode/tree/master/0071-simplify-path) |
+| [0131-palindrome-partitioning](https://github.com/CharanVempala9/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/CharanVempala9/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/CharanVempala9/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/CharanVempala9/Leetcode/tree/master/0383-ransom-note) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/CharanVempala9/Leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/CharanVempala9/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/CharanVempala9/Leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/CharanVempala9/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [1160-letter-tile-possibilities](https://github.com/CharanVempala9/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/CharanVempala9/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/CharanVempala9/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/CharanVempala9/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/CharanVempala9/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/CharanVempala9/Leetcode/tree/master/0053-maximum-subarray) |
+| [0131-palindrome-partitioning](https://github.com/CharanVempala9/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0368-largest-divisible-subset](https://github.com/CharanVempala9/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/CharanVempala9/Leetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/CharanVempala9/Leetcode/tree/master/0410-split-array-largest-sum) |
