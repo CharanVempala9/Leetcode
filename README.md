@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/CharanVempala9/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/CharanVempala9/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/CharanVempala9/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/CharanVempala9/Leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/CharanVempala9/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/CharanVempala9/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/CharanVempala9/Leetcode/tree/master/0048-rotate-image) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/CharanVempala9/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/CharanVempala9/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/CharanVempala9/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/CharanVempala9/Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/CharanVempala9/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/CharanVempala9/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/CharanVempala9/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/CharanVempala9/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/CharanVempala9/Leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/CharanVempala9/Leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/CharanVempala9/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/CharanVempala9/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/CharanVempala9/Leetcode/tree/master/0052-n-queens-ii) |
@@ -616,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/CharanVempala9/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/CharanVempala9/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/CharanVempala9/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/CharanVempala9/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/CharanVempala9/Leetcode/tree/master/0073-set-matrix-zeroes) |
