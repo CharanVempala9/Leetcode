@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/CharanVempala9/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/CharanVempala9/Leetcode/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/CharanVempala9/Leetcode/tree/master/0409-longest-palindrome) |
+| [0686-repeated-string-match](https://github.com/CharanVempala9/Leetcode/tree/master/0686-repeated-string-match) |
 | [0768-partition-labels](https://github.com/CharanVempala9/Leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/CharanVempala9/Leetcode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/CharanVempala9/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -782,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/CharanVempala9/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/CharanVempala9/Leetcode/tree/master/0686-repeated-string-match) |
 ## Trie
 |  |
 | ------- |
