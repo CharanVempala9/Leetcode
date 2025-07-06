@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/CharanVempala9/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/CharanVempala9/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/CharanVempala9/Leetcode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/CharanVempala9/Leetcode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/CharanVempala9/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/CharanVempala9/Leetcode/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/CharanVempala9/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/CharanVempala9/Leetcode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/CharanVempala9/Leetcode/tree/master/0148-sort-list) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/CharanVempala9/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0954-maximum-sum-circular-subarray](https://github.com/CharanVempala9/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [2280-count-good-triplets-in-an-array](https://github.com/CharanVempala9/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/CharanVempala9/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/CharanVempala9/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/CharanVempala9/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/CharanVempala9/Leetcode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CharanVempala9/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/CharanVempala9/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/CharanVempala9/Leetcode/tree/master/0202-happy-number) |
@@ -815,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/CharanVempala9/Leetcode/tree/master/0148-sort-list) |
 | [2280-count-good-triplets-in-an-array](https://github.com/CharanVempala9/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Monotonic Queue
 |  |
@@ -839,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/CharanVempala9/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/CharanVempala9/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/CharanVempala9/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/CharanVempala9/Leetcode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/CharanVempala9/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/CharanVempala9/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/CharanVempala9/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
