@@ -1,22 +1,18 @@
 class Solution {
     public int matchPlayersAndTrainers(int[] players, int[] trainers) {
-        PriorityQueue<Integer>trainer=new PriorityQueue<>();
-        PriorityQueue<Integer>player=new PriorityQueue<>();
-        for(int p:players){
-            player.add(p);
-        }
-        for(int t:trainers){
-            trainer.add(t);
-        }
+        Arrays.sort(players);
+        Arrays.sort(trainers);
+        int pidx=players.length-1;
+        int tidx=trainers.length-1;
         int cnt=0;
-        while(!trainer.isEmpty() && !player.isEmpty()){
-            if(trainer.peek()>=player.peek()){
-                trainer.poll();
-                player.poll();
+        while(pidx>=0 && tidx>=0){
+            if(trainers[tidx]>=players[pidx]){
+                tidx--;
+                pidx--;
                 cnt++;
             }
             else{
-                trainer.poll();
+                pidx--;
             }
         }
         return cnt;
