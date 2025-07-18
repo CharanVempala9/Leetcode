@@ -1032,4 +1032,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/CharanVempala9/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/CharanVempala9/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0975-range-sum-of-bst](https://github.com/CharanVempala9/Leetcode/tree/master/0975-range-sum-of-bst) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/CharanVempala9/Leetcode/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
