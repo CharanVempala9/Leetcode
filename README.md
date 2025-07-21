@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/CharanVempala9/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/CharanVempala9/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/CharanVempala9/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/CharanVempala9/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/CharanVempala9/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/CharanVempala9/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/CharanVempala9/Leetcode/tree/master/0070-climbing-stairs) |
@@ -731,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/CharanVempala9/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/CharanVempala9/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/CharanVempala9/Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/CharanVempala9/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/CharanVempala9/Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/CharanVempala9/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/CharanVempala9/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -932,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/CharanVempala9/Leetcode/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CharanVempala9/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/CharanVempala9/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/CharanVempala9/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
