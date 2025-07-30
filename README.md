@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/CharanVempala9/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/CharanVempala9/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/CharanVempala9/Leetcode/tree/master/1170-shortest-common-supersequence) |
+| [1250-longest-common-subsequence](https://github.com/CharanVempala9/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/CharanVempala9/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/CharanVempala9/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/CharanVempala9/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -785,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/CharanVempala9/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/CharanVempala9/Leetcode/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/CharanVempala9/Leetcode/tree/master/1170-shortest-common-supersequence) |
+| [1250-longest-common-subsequence](https://github.com/CharanVempala9/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/CharanVempala9/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/CharanVempala9/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/CharanVempala9/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
