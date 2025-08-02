@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/CharanVempala9/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/CharanVempala9/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/CharanVempala9/Leetcode/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/CharanVempala9/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2690-house-robber-iv](https://github.com/CharanVempala9/Leetcode/tree/master/2690-house-robber-iv) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/CharanVempala9/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/CharanVempala9/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/CharanVempala9/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/CharanVempala9/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/CharanVempala9/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2689-rearranging-fruits](https://github.com/CharanVempala9/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/CharanVempala9/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/CharanVempala9/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2825-minimize-string-length](https://github.com/CharanVempala9/Leetcode/tree/master/2825-minimize-string-length) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/CharanVempala9/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/CharanVempala9/Leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2681-put-marbles-in-bags](https://github.com/CharanVempala9/Leetcode/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/CharanVempala9/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/CharanVempala9/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/CharanVempala9/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/CharanVempala9/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -587,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/CharanVempala9/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/CharanVempala9/Leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2681-put-marbles-in-bags](https://github.com/CharanVempala9/Leetcode/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/CharanVempala9/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/CharanVempala9/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/CharanVempala9/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/CharanVempala9/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
