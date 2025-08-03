@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/CharanVempala9/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/CharanVempala9/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/CharanVempala9/Leetcode/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/CharanVempala9/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/CharanVempala9/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/CharanVempala9/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/CharanVempala9/Leetcode/tree/master/0071-simplify-path) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/CharanVempala9/Leetcode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/CharanVempala9/Leetcode/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/CharanVempala9/Leetcode/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/CharanVempala9/Leetcode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/CharanVempala9/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -775,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/CharanVempala9/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/CharanVempala9/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/CharanVempala9/Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/CharanVempala9/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/CharanVempala9/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/CharanVempala9/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -1049,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/CharanVempala9/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/CharanVempala9/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/CharanVempala9/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/CharanVempala9/Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/CharanVempala9/Leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/CharanVempala9/Leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/CharanVempala9/Leetcode/tree/master/0203-remove-linked-list-elements) |
