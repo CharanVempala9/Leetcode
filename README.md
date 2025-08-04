@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/CharanVempala9/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/CharanVempala9/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/CharanVempala9/Leetcode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/CharanVempala9/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/CharanVempala9/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/CharanVempala9/Leetcode/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/CharanVempala9/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -790,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/CharanVempala9/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/CharanVempala9/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/CharanVempala9/Leetcode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/CharanVempala9/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/CharanVempala9/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/CharanVempala9/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/CharanVempala9/Leetcode/tree/master/0198-house-robber) |
