@@ -474,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/CharanVempala9/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/CharanVempala9/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/CharanVempala9/Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/CharanVempala9/Leetcode/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/CharanVempala9/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/CharanVempala9/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/CharanVempala9/Leetcode/tree/master/0826-soup-servings) |
@@ -988,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/CharanVempala9/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/CharanVempala9/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/CharanVempala9/Leetcode/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/CharanVempala9/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/CharanVempala9/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/CharanVempala9/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/CharanVempala9/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -1091,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/CharanVempala9/Leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/CharanVempala9/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/CharanVempala9/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/CharanVempala9/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/CharanVempala9/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/CharanVempala9/Leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/CharanVempala9/Leetcode/tree/master/1013-fibonacci-number) |
