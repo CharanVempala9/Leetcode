@@ -476,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/CharanVempala9/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/CharanVempala9/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/CharanVempala9/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/CharanVempala9/Leetcode/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/CharanVempala9/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/CharanVempala9/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/CharanVempala9/Leetcode/tree/master/0826-soup-servings) |
@@ -1099,6 +1100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/CharanVempala9/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/CharanVempala9/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/CharanVempala9/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/CharanVempala9/Leetcode/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/CharanVempala9/Leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/CharanVempala9/Leetcode/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CharanVempala9/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
