@@ -3,9 +3,11 @@ class Solution {
         if(n<=0){
             return false;
         }
-        while(n%4==0){
-            n=n/4;
+        if(n==1){
+            return true;
         }
-        return n==1;
+        if(n%4==0)
+        return isPowerOfFour(n/4);
+        return false;    
     }
 }
