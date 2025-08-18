@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/CharanVempala9/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/CharanVempala9/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/CharanVempala9/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/CharanVempala9/Leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/CharanVempala9/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/CharanVempala9/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/CharanVempala9/Leetcode/tree/master/0383-ransom-note) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/CharanVempala9/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/CharanVempala9/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/CharanVempala9/Leetcode/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/CharanVempala9/Leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/CharanVempala9/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/CharanVempala9/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/CharanVempala9/Leetcode/tree/master/0162-find-peak-element) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/CharanVempala9/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/CharanVempala9/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/CharanVempala9/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/CharanVempala9/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/CharanVempala9/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/CharanVempala9/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/CharanVempala9/Leetcode/tree/master/0202-happy-number) |
@@ -844,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/CharanVempala9/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/CharanVempala9/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/CharanVempala9/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/CharanVempala9/Leetcode/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/CharanVempala9/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/CharanVempala9/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/CharanVempala9/Leetcode/tree/master/0213-house-robber-ii) |
@@ -1117,6 +1121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/CharanVempala9/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/CharanVempala9/Leetcode/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/CharanVempala9/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/CharanVempala9/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/CharanVempala9/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1171,6 +1176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/CharanVempala9/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/CharanVempala9/Leetcode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/CharanVempala9/Leetcode/tree/master/1013-fibonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/CharanVempala9/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/CharanVempala9/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
