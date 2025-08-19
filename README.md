@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/CharanVempala9/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/CharanVempala9/Leetcode/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/CharanVempala9/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/CharanVempala9/Leetcode/tree/master/0682-baseball-game) |
 | [1072-next-greater-node-in-linked-list](https://github.com/CharanVempala9/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/CharanVempala9/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/CharanVempala9/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/CharanVempala9/Leetcode/tree/master/0518-coin-change-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/CharanVempala9/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0654-maximum-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/CharanVempala9/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0679-24-game](https://github.com/CharanVempala9/Leetcode/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/CharanVempala9/Leetcode/tree/master/0682-baseball-game) |
@@ -684,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/CharanVempala9/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/CharanVempala9/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -796,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/CharanVempala9/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/CharanVempala9/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -817,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/CharanVempala9/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/CharanVempala9/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/CharanVempala9/Leetcode/tree/master/0148-sort-list) |
+| [0654-maximum-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/CharanVempala9/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0954-maximum-sum-circular-subarray](https://github.com/CharanVempala9/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [2280-count-good-triplets-in-an-array](https://github.com/CharanVempala9/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
@@ -1091,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/CharanVempala9/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/CharanVempala9/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [1072-next-greater-node-in-linked-list](https://github.com/CharanVempala9/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/CharanVempala9/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Combinatorics
