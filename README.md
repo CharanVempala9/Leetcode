@@ -726,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/CharanVempala9/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/CharanVempala9/Leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/CharanVempala9/Leetcode/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -760,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/CharanVempala9/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/CharanVempala9/Leetcode/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/CharanVempala9/Leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/CharanVempala9/Leetcode/tree/master/0945-snakes-and-ladders) |
@@ -829,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/CharanVempala9/Leetcode/tree/master/0547-number-of-provinces) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/CharanVempala9/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/CharanVempala9/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/CharanVempala9/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -1078,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/CharanVempala9/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/CharanVempala9/Leetcode/tree/master/0547-number-of-provinces) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/CharanVempala9/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/CharanVempala9/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/CharanVempala9/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
