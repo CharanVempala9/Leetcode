@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/CharanVempala9/Leetcode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/CharanVempala9/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/CharanVempala9/Leetcode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/CharanVempala9/Leetcode/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/CharanVempala9/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0654-maximum-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/CharanVempala9/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -772,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/CharanVempala9/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/CharanVempala9/Leetcode/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/CharanVempala9/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/CharanVempala9/Leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/CharanVempala9/Leetcode/tree/master/0733-flood-fill) |
@@ -891,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/CharanVempala9/Leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/CharanVempala9/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/CharanVempala9/Leetcode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/CharanVempala9/Leetcode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/CharanVempala9/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/CharanVempala9/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/CharanVempala9/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -984,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/CharanVempala9/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0174-dungeon-game](https://github.com/CharanVempala9/Leetcode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/CharanVempala9/Leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/CharanVempala9/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/CharanVempala9/Leetcode/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/CharanVempala9/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/CharanVempala9/Leetcode/tree/master/0967-minimum-falling-path-sum) |
