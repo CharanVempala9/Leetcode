@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/CharanVempala9/Leetcode/tree/master/1036-rotting-oranges) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/CharanVempala9/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1072-next-greater-node-in-linked-list](https://github.com/CharanVempala9/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1073-number-of-enclaves](https://github.com/CharanVempala9/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1129-longest-string-chain](https://github.com/CharanVempala9/Leetcode/tree/master/1129-longest-string-chain) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/CharanVempala9/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/CharanVempala9/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -745,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/CharanVempala9/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/1035-cousins-in-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/CharanVempala9/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/CharanVempala9/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/CharanVempala9/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/CharanVempala9/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -784,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/CharanVempala9/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1035-cousins-in-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/CharanVempala9/Leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/CharanVempala9/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/CharanVempala9/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/CharanVempala9/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -996,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/CharanVempala9/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/CharanVempala9/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/CharanVempala9/Leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/CharanVempala9/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/CharanVempala9/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/CharanVempala9/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/CharanVempala9/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -1115,6 +1119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/CharanVempala9/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/CharanVempala9/Leetcode/tree/master/0547-number-of-provinces) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/CharanVempala9/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1073-number-of-enclaves](https://github.com/CharanVempala9/Leetcode/tree/master/1073-number-of-enclaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/CharanVempala9/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/CharanVempala9/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/CharanVempala9/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
