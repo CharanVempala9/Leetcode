@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/CharanVempala9/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/CharanVempala9/Leetcode/tree/master/0067-add-binary) |
+| [0498-diagonal-traverse](https://github.com/CharanVempala9/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/CharanVempala9/Leetcode/tree/master/0682-baseball-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CharanVempala9/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/CharanVempala9/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/CharanVempala9/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/CharanVempala9/Leetcode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/CharanVempala9/Leetcode/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/CharanVempala9/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/CharanVempala9/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/CharanVempala9/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/CharanVempala9/Leetcode/tree/master/0542-01-matrix) |
@@ -997,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/CharanVempala9/Leetcode/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/CharanVempala9/Leetcode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/CharanVempala9/Leetcode/tree/master/0200-number-of-islands) |
+| [0498-diagonal-traverse](https://github.com/CharanVempala9/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/CharanVempala9/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/CharanVempala9/Leetcode/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/CharanVempala9/Leetcode/tree/master/0945-snakes-and-ladders) |
