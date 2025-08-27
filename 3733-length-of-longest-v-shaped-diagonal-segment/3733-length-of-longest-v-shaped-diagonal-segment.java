@@ -1,44 +1,41 @@
 class Solution {
-    int dirs[][]={{1,1},{1,-1},{-1,-1},{-1,1}};
-    int n;
-    int m;
-    int dp[][][][];
+    int dirs[][] = {{-1,1},{1,1},{1,-1},{-1,-1}};
+    int [][] grid;
+    int row, col;   
 
     public int lenOfVDiagonal(int[][] grid) {
-        n=grid.length;
-        m=grid[0].length;
-        dp=new int[n][m][4][2];
-        for(int i=0; i<n; i++) {
-            for(int j=0; j<m; j++) {
-                for(int k=0; k<4; k++) {
-                    Arrays.fill(dp[i][j][k],-1);
-                }
-            }
-        }
-        int ans=0;
-        for(int i=0; i<n; i++) {
-            for(int j=0; j<m; j++) {
-                if(grid[i][j]==1) {
-                    for(int d=0; d<4; d++) {
-                        ans=Math.max(ans,solve(i,j,d,1,2,grid)+1);
+        row = grid.length;
+        col = grid[0].length;
+        this.grid = grid;
+        int res = 0;
+        for(int i = 0; i < row; i++) {
+            for(int j = 0; j < col; j++) {
+                if(grid[i][j] == 1) {
+                    res = Math.max(res, 1);
+                    for(int d = 0; d < 4; d++) {
+                        //row , col , direction , target , isTurned
+                        res = Math.max(res, dfs(i, j, d, 2,false));
                     }
                 }
             }
         }
-        return ans;
+        return res;
     }
-    
-    int solve(int i,int j,int direction,int turn,int search,int grid[][]) {
-        int nx=i+dirs[direction][0];
-        int ny=j+dirs[direction][1];
 
-        if(nx<0 || nx>=n || ny<0 || ny>=m || grid[nx][ny]!=search) return 0;
+    private int dfs(int i, int j , int dir ,int target, boolean isTurned){
+        int x = i + dirs[dir][0];//next position
+        int y = j + dirs[dir][1];//next position
 
-        if(dp[i][j][direction][turn]!=-1) return dp[i][j][direction][turn];
-        int ans=solve(nx,ny,direction,turn,2-search,grid);
-        if(turn>0) {
-            ans=Math.max(ans,solve(nx,ny,(direction+1)%4,turn-1,2-search,grid));
+        //  x and y in boundarys and that posion is target
+        if(x < 0 || x >= row || y < 0 || y >= col || grid[x][y] != target) return 1;
+
+        int straight = 1 + dfs(x, y, dir, target == 2 ? 0: 2, isTurned);//continue in the same direction
+
+        int turn = 0; //length after turn
+        if(!isTurned) { //can turn only once
+            // dir + 1 --> 90deg turn
+            turn = 1 + dfs(x, y, (dir + 1) % 4, target == 2 ? 0: 2, true);
         }
-        return dp[i][j][direction][turn]=ans+1;
+        return Math.max(straight, turn);
     }
 }
