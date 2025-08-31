@@ -2,10 +2,9 @@ class Solution {
     public boolean solve(char[][] board){
         int row=-1;
         int col=-1;
-        int n=board.length;
         boolean found=true;
-        for(int i=0; i<n; i++){
-            for(int j=0; j<n; j++){
+        for(int i=0; i<board.length; i++){
+            for(int j=0; j<board.length; j++){
                 if(board[i][j]=='.'){
                     row=i;
                     col=j;
@@ -17,13 +16,11 @@ class Solution {
                 break;
             }
         }
-        if(found)
-        return true;
+        if(found) return true;
 
-        //backtrack
-        for(int num=1; num<=9; num++){
-            if(isSafe(board,row,col,num)){
-                board[row][col]=(char)(num+'0');
+        for(int n=1; n<=9; n++){
+            if(isSafe(row,col,n,board)){
+                board[row][col]=(char)(n+'0');
                 if(solve(board)){
                     return true;
                 }
@@ -34,35 +31,27 @@ class Solution {
         }
         return false;
     }
-    public boolean isSafe(char[][] board,int r,int c,int num){
-        //row check
-        int n=board.length;
-        for(int i=0; i<n; i++){
-            if(board[r][i]==(char)num+'0'){
-                return false;
-            }
+    public boolean isSafe(int r,int c,int num,char[][] board){
+        //rowcheck
+        for(int i=0; i<board.length; i++){
+            if(board[r][i]==(char)(num+'0')) return false;
         }
-        //col check
-        for(int i=0; i<n; i++){
-            if(board[i][c]==(char)num+'0'){
-                return false;
-            }
+        //colchcek
+        for(int j=0; j<board.length; j++){
+            if(board[j][c]==(char)(num+'0')) return false;
         }
-        //  grid check
+        //grid check
         int sqrt=(int)Math.sqrt(board.length);
-        int rStart= r-r%sqrt;
-        int cStart=c-c%sqrt;
-        for(int i=rStart; i<rStart+sqrt; i++){
-            for(int j=cStart; j<cStart+sqrt; j++){
-                if(board[i][j]==(char)num+'0'){
-                    return false;
-                }
+        int rowSt=r-r%sqrt;
+        int colSt=c-c%sqrt;
+        for(int i=rowSt; i<rowSt+sqrt; i++){
+            for(int j=colSt; j<colSt+sqrt; j++){
+                if(board[i][j]==(char)(num+'0')) return false;
             }
         }
-        //if not satisfied all these conditions
         return true;
-    }
 
+    }
     public void solveSudoku(char[][] board) {
         solve(board);
     }
