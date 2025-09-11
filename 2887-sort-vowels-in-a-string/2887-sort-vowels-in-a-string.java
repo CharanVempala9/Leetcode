@@ -1,25 +1,34 @@
-import java.util.*;
-
 class Solution {
     public String sortVowels(String s) {
-        List<Character> vowelsList = new ArrayList<>();
-        Set<Character> vowelsSet = Set.of('A', 'E', 'I', 'O', 'U', 'a', 'e', 'i', 'o', 'u');
-        for (char ch : s.toCharArray()) {
-            if (vowelsSet.contains(ch)) {
-                vowelsList.add(ch);
+        char[] arr={'A','E','I','O','U','a','e','i','o','u'};
+        Set<Character>hs=new HashSet<>();
+        for(char ch:arr){
+            hs.add(ch);
+        }
+        int[] res=new int[53];
+        for(int i=0; i<s.length(); i++){
+            if(hs.contains(s.charAt(i))){
+                res[(s.charAt(i)-0)-65]++;
             }
         }
-        Collections.sort(vowelsList);
-        StringBuilder result = new StringBuilder();
-        int vowelIndex = 0;
-        for (char ch : s.toCharArray()) {
-            if (vowelsSet.contains(ch)) {
-                result.append(vowelsList.get(vowelIndex++));
-            } else {
-                result.append(ch);
+        StringBuilder temp=new StringBuilder();
+        for(int i=0; i<53; i++){
+            int val=res[i];
+            while(val-->0){
+                temp.append((char)(i+65));
             }
         }
-
-        return result.toString();
+        int idx=0;
+        StringBuilder ans=new StringBuilder();
+        for(int i=0; i<s.length(); i++){
+            if(!hs.contains(s.charAt(i))){
+                ans.append(s.charAt(i));
+            }
+            else{
+                ans.append(temp.charAt(idx));
+                idx++;
+            }
+        }
+        return ans.toString();
     }
 }
