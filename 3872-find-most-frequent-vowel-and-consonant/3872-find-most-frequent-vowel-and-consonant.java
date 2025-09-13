@@ -1,20 +1,18 @@
 class Solution {
     public int maxFreqSum(String s) {
-        int[] arr=new int[26];
+        int[] freq=new int[26];
         int n=s.length();
+        int v=0;
+        int c=0;
         for(int i=0; i<n; i++){
-            arr[s.charAt(i)-'a']++;
-        }
-        int vmax=0;
-        int cmax=0;
-        for(int i=0; i<26; i++){
-            if(i==0 || i==4 || i==8 || i==14 || i==20){
-                vmax=Math.max(vmax,arr[i]);
+            freq[s.charAt(i)-'a']++;
+            if(s.charAt(i)=='a' || s.charAt(i)=='e' || s.charAt(i)=='i' || s.charAt(i)=='o' || s.charAt(i)=='u'){
+                v=Math.max(v,freq[s.charAt(i)-'a']);
             }
             else{
-                cmax=Math.max(cmax,arr[i]);
+                c=Math.max(c,freq[s.charAt(i)-'a']);
             }
         }
-        return vmax+cmax;
+        return c+v;
     }
 }
