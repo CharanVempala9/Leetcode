@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/CharanVempala9/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/CharanVempala9/Leetcode/tree/master/1656-count-good-triplets) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/CharanVempala9/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1753-path-with-minimum-effort](https://github.com/CharanVempala9/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/CharanVempala9/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/CharanVempala9/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/CharanVempala9/Leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/CharanVempala9/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/CharanVempala9/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1753-path-with-minimum-effort](https://github.com/CharanVempala9/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/CharanVempala9/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/CharanVempala9/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/CharanVempala9/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -804,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/CharanVempala9/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/CharanVempala9/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1753-path-with-minimum-effort](https://github.com/CharanVempala9/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/CharanVempala9/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/CharanVempala9/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/CharanVempala9/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -847,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/CharanVempala9/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/CharanVempala9/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1753-path-with-minimum-effort](https://github.com/CharanVempala9/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/CharanVempala9/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/CharanVempala9/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/CharanVempala9/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -1071,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/CharanVempala9/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/CharanVempala9/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/CharanVempala9/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1753-path-with-minimum-effort](https://github.com/CharanVempala9/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/CharanVempala9/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/CharanVempala9/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/CharanVempala9/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -1130,6 +1135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/CharanVempala9/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/CharanVempala9/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/CharanVempala9/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1753-path-with-minimum-effort](https://github.com/CharanVempala9/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/CharanVempala9/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/CharanVempala9/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/CharanVempala9/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -1195,6 +1201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/CharanVempala9/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/CharanVempala9/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/CharanVempala9/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/CharanVempala9/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/CharanVempala9/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/CharanVempala9/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/CharanVempala9/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
