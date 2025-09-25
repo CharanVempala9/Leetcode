@@ -1,40 +1,29 @@
-import java.util.*;
-
 class Solution {
-    public int gen(int i, int j, int n, List<List<Integer>> triangle, int[][] dp) {
-        if (i == n) {
-            return triangle.get(i).get(j);
+    public int isposs(int r,int c,List<List<Integer>> triangle,int[][] dp){
+        if(r<0 || c<0 || c>=triangle.get(r).size()){
+            return (int)1e9;
         }
-        if (dp[i][j] != -1) {
-            return dp[i][j];
+        if(r==0 && c==0){
+            return triangle.get(0).get(0);
         }
-
-        int val = triangle.get(i).get(j);
-        int down = gen(i + 1, j, n, triangle, dp);
-        int diag = gen(i + 1, j + 1, n, triangle, dp);
-
-        return dp[i][j] = val + Math.min(down, diag);
+        if(dp[r][c]!=-1)return dp[r][c];
+        int up=isposs(r-1,c,triangle,dp);
+        int diag=isposs(r-1,c-1,triangle,dp);
+        dp[r][c]= Math.min(up,diag)+triangle.get(r).get(c);
+        return dp[r][c];
     }
-
     public int minimumTotal(List<List<Integer>> triangle) {
-        int n = triangle.size();
-        int[][] dp = new int[n][n];
-        for (int[] row : dp) {
-            Arrays.fill(row, -1);
+        int n=triangle.size();
+        int m=triangle.get(triangle.size()-1).size();
+        int min=Integer.MAX_VALUE;
+        int[][] dp=new int[n][m];
+        for(int i=0; i<n; i++){
+            Arrays.fill(dp[i],-1);
         }
-        //base case
-        for(int j=0; j<n; j++){
-            dp[n-1][j]=triangle.get(n-1).get(j);
+        for(int i=0; i<m; i++){
+            int val=triangle.get(n-1).get(i);
+            min=Math.min(isposs(n-1,i,triangle,dp),min);
         }
-        for(int i=n-2; i>=0; i--){
-            for(int j=i; j>=0; j--){
-                int val=triangle.get(i).get(j);
-                int down= dp[i+1][j] + val;
-                int diag= dp[i+1][j+1] + val;  
-
-                dp[i][j]=Math.min(down,diag);
-            }
-        }
-        return dp[0][0];
+        return min;
     }
 }
