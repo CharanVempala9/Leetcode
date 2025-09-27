@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/CharanVempala9/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/CharanVempala9/Leetcode/tree/master/0733-flood-fill) |
 | [0797-rabbits-in-forest](https://github.com/CharanVempala9/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/CharanVempala9/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/CharanVempala9/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/CharanVempala9/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/CharanVempala9/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/CharanVempala9/Leetcode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/CharanVempala9/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/CharanVempala9/Leetcode/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/CharanVempala9/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/CharanVempala9/Leetcode/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/CharanVempala9/Leetcode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/CharanVempala9/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1440,6 +1442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/CharanVempala9/Leetcode/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/CharanVempala9/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/CharanVempala9/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Game Theory
