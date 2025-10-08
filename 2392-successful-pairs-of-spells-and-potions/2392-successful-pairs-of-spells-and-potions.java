@@ -7,7 +7,7 @@ class Solution {
         for(int i=0; i<n; i++){
             int l=0;
             int h=m-1;
-            int ans=m;
+            int ans=-1;
             while(l<=h){
                 int mid=l+(h-l)/2;
                 if((long)spells[i]*potions[mid]>=success){
@@ -18,7 +18,10 @@ class Solution {
                     l=mid+1;
                 }
             }
+            if(ans!=-1)
             res[i]=m-ans;
+            else
+            res[i]=0;
         }
         return res;
     }
