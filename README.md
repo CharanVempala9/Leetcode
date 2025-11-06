@@ -1081,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/CharanVempala9/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/CharanVempala9/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/CharanVempala9/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [3189-find-champion-ii](https://github.com/CharanVempala9/Leetcode/tree/master/3189-find-champion-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/CharanVempala9/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/CharanVempala9/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/CharanVempala9/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
