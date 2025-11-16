@@ -1,15 +1,18 @@
 class Solution {
     public int numSub(String s) {
-        long mod = 1000000007L;
-        long cnt = 0, ans = 0;
-        for (char c : s.toCharArray()) {
-            if(c == '1') {
+        int n=s.length();
+        long cnt=0;
+        long ans=0;
+        for(int i=0; i<n; i++){
+            if(s.charAt(i)=='1'){
                 cnt++;
-                ans = (ans + cnt) % mod; 
-            }else {
-                cnt = 0;
+            }
+            else{
+                ans+=((cnt*(cnt+1))/2)%(long)1000000007;  
+                cnt=0;
             }
         }
-        return (int) ans;
+        ans+=((cnt*(cnt+1))/2)%(long)1000000007;  
+        return (int)ans;
     }
 }
