@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/CharanVempala9/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/CharanVempala9/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/CharanVempala9/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/CharanVempala9/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/CharanVempala9/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/CharanVempala9/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/CharanVempala9/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/CharanVempala9/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/CharanVempala9/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/CharanVempala9/Leetcode/tree/master/2023-design-movie-rental-system) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/CharanVempala9/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/CharanVempala9/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/CharanVempala9/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2169-simple-bank-system](https://github.com/CharanVempala9/Leetcode/tree/master/2169-simple-bank-system) |
@@ -760,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/CharanVempala9/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/CharanVempala9/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/CharanVempala9/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/CharanVempala9/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2102-find-the-middle-index-in-array](https://github.com/CharanVempala9/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/CharanVempala9/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/CharanVempala9/Leetcode/tree/master/2249-count-the-hidden-sequences) |
@@ -1400,6 +1403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/CharanVempala9/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/CharanVempala9/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CharanVempala9/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/CharanVempala9/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/CharanVempala9/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/CharanVempala9/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/CharanVempala9/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
