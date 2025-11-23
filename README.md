@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/CharanVempala9/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/CharanVempala9/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/CharanVempala9/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3582-generate-tag-for-video-caption](https://github.com/CharanVempala9/Leetcode/tree/master/3582-generate-tag-for-video-caption) |
 | [3617-find-the-original-typed-string-i](https://github.com/CharanVempala9/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/CharanVempala9/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/CharanVempala9/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/CharanVempala9/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/CharanVempala9/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3447-clear-digits](https://github.com/CharanVempala9/Leetcode/tree/master/3447-clear-digits) |
+| [3582-generate-tag-for-video-caption](https://github.com/CharanVempala9/Leetcode/tree/master/3582-generate-tag-for-video-caption) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/CharanVempala9/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/CharanVempala9/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/CharanVempala9/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
