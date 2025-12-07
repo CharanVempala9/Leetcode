@@ -1,21 +1,26 @@
 class Solution {
     public int countOdds(int low, int high) {
-        int cnt=0;
+        if(low==high && low%2==0) return 0;
+        if(low==high && low%2==1) return 1;
         if(low%2==1){
-            for(int i=low; i<=high; i+=2){
-                cnt++;
+            int diff=high-low-1;
+            int rem=diff/2;
+            if(high%2==1){
+                return rem+2;
+            }
+            else{
+                return rem+1;
             }
         }
         else{
-            for(int i=low+1; i<=high; i+=2){
-                cnt++;
-            }
+            int diff=high-low-1;
+            int rem=diff/2;
+            return rem+1;
         }
-        return cnt;
     }
 }
 
-/* 3  4 5 6 7 
+/*  4 5 6 7 8     14 15 16 17 18  
 
     8 9 10 
 
