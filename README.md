@@ -703,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/CharanVempala9/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/CharanVempala9/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/CharanVempala9/Leetcode/tree/master/0263-ugly-number) |
+| [0319-bulb-switcher](https://github.com/CharanVempala9/Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/CharanVempala9/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/CharanVempala9/Leetcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/CharanVempala9/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -1703,6 +1704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/CharanVempala9/Leetcode/tree/master/0319-bulb-switcher) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/CharanVempala9/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/CharanVempala9/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/CharanVempala9/Leetcode/tree/master/3462-vowels-game-in-a-string) |
