@@ -600,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/CharanVempala9/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/CharanVempala9/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/CharanVempala9/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2092-find-all-people-with-secret](https://github.com/CharanVempala9/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/CharanVempala9/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/CharanVempala9/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/CharanVempala9/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -1053,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-delete-leaves-with-a-given-value](https://github.com/CharanVempala9/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/CharanVempala9/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/CharanVempala9/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2092-find-all-people-with-secret](https://github.com/CharanVempala9/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/CharanVempala9/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/CharanVempala9/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/CharanVempala9/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -1106,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/CharanVempala9/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/CharanVempala9/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/CharanVempala9/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2092-find-all-people-with-secret](https://github.com/CharanVempala9/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/CharanVempala9/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/CharanVempala9/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/CharanVempala9/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -1180,6 +1183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/CharanVempala9/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/CharanVempala9/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/CharanVempala9/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2092-find-all-people-with-secret](https://github.com/CharanVempala9/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/CharanVempala9/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/CharanVempala9/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/CharanVempala9/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -1525,6 +1529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/CharanVempala9/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/CharanVempala9/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/CharanVempala9/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2092-find-all-people-with-secret](https://github.com/CharanVempala9/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/CharanVempala9/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/CharanVempala9/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/CharanVempala9/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
