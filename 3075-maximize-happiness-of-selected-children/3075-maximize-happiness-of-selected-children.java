@@ -11,6 +11,7 @@ class Solution {
             int v=pq.poll();
             if(v-idx>=0)
             ans+=v-idx;
+            else break;
             idx++;
         }
         return ans;
