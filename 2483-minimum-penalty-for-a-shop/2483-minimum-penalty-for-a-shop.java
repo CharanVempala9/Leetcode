@@ -1,38 +1,51 @@
 class Solution {
-    public int bestClosingTime(String customers) {
-        int n = customers.length();
-        int[] prefOpen = new int[n];
-        int[] sufClosed = new int[n];
-
-        if(customers.charAt(0) == 'N')
-            prefOpen[0] = 1;
-        for(int i=1;i<n;i++) {
-            prefOpen[i] = prefOpen[i-1];
-            if(customers.charAt(i) == 'N')
-                prefOpen[i] += 1;
-        }
-
-        if(customers.charAt(n-1) == 'Y')
-            sufClosed[n-1] = 1;
-        for(int i=n-2;i>=0;i--) {
-            sufClosed[i] = sufClosed[i+1];
-            if(customers.charAt(i) == 'Y')
-                sufClosed[i] += 1;
-        }
-        int ans = 0;
-        int penality = sufClosed[0];
-
-        for(int i=1;i<n;i++) {
-            if(prefOpen[i-1] + sufClosed[i] < penality) {
-                penality = prefOpen[i-1] + sufClosed[i];
-                ans = i;
+    public int bestClosingTime(String s) {
+        int Ncnt=0;
+        int n=s.length();
+        int Ycnt=0;
+        for(int i=0; i<n; i++){
+            if(s.charAt(i)=='N'){
+                Ncnt++;
+            }
+            else{
+                Ycnt++;
             }
         }
-        if(prefOpen[n-1] < penality) {
-            penality = prefOpen[n-1];
-            ans = n;
+        int[] sfx=new int[n+1];
+        sfx[n]=Ncnt;
+        int revcnt=0;
+        int min=sfx[n];
+        for(int i=n-1; i>=0; i--){
+            if(s.charAt(i)=='Y'){
+                min=Math.min(min,Ncnt+revcnt+1);
+                Ycnt--;
+                sfx[i]=Ncnt+revcnt+1;
+                revcnt++;
+            }
+            else{
+                Ncnt--;
+                min=Math.min(min,Ncnt+revcnt);
+                sfx[i]=Ncnt+revcnt;
+            }
         }
-        return ans;
-
+        //System.out.println(min);
+        for(int i=0; i<=n; i++){
+            //System.out.print(sfx[i]+" ");
+            if(sfx[i]==min){
+                return i;
+            }
+        }
+        return -1;
     }
 }
+/* Y Y N Y
+   3 2 1 2  1
+
+
+
+   Y  Y Y  Y 
+
+   4   3  2   1  
+
+
+*/
