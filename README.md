@@ -1031,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/CharanVempala9/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/CharanVempala9/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/CharanVempala9/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/CharanVempala9/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -1086,6 +1087,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/CharanVempala9/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/CharanVempala9/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/CharanVempala9/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/CharanVempala9/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -1194,6 +1196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/CharanVempala9/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/CharanVempala9/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/CharanVempala9/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/CharanVempala9/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/CharanVempala9/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
