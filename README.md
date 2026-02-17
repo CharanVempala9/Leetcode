@@ -950,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/CharanVempala9/Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/CharanVempala9/Leetcode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/CharanVempala9/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0401-binary-watch](https://github.com/CharanVempala9/Leetcode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/CharanVempala9/Leetcode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/CharanVempala9/Leetcode/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/CharanVempala9/Leetcode/tree/master/0756-pyramid-transition-matrix) |
@@ -1628,6 +1629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/CharanVempala9/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/CharanVempala9/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/CharanVempala9/Leetcode/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/CharanVempala9/Leetcode/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/CharanVempala9/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/CharanVempala9/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/CharanVempala9/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
