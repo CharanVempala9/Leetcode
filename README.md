@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/CharanVempala9/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/CharanVempala9/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0686-repeated-string-match](https://github.com/CharanVempala9/Leetcode/tree/master/0686-repeated-string-match) |
+| [0696-count-binary-substrings](https://github.com/CharanVempala9/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/CharanVempala9/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/CharanVempala9/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/CharanVempala9/Leetcode/tree/master/0768-partition-labels) |
@@ -1454,6 +1455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/CharanVempala9/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/CharanVempala9/Leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/CharanVempala9/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/CharanVempala9/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/CharanVempala9/Leetcode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/CharanVempala9/Leetcode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/CharanVempala9/Leetcode/tree/master/0908-middle-of-the-linked-list) |
