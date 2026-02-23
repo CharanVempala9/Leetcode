@@ -12,6 +12,6 @@ class Solution {
                 l++;
             }
         }
-        return hs.size()==(int)Math.pow(2,k);
+        return hs.size()==(1<<k);
     }
 }
