@@ -15,18 +15,18 @@
  */
 class Solution {
     int sum;
-    public void dfs(TreeNode root,String val){
+    public void dfs(TreeNode root,int val){
         if(root==null)return;
-        val+=root.val;
+        val=val*2+root.val;
         if(root.left==null && root.right==null){
-            sum+=Integer.parseInt(val,2);
+            sum+=val;
             return;
         }
         dfs(root.left,val);
         dfs(root.right,val);
     }
     public int sumRootToLeaf(TreeNode root) {
-        dfs(root,"");
+        dfs(root,0);
         return sum;
     }
 }
