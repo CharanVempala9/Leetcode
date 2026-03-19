@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/CharanVempala9/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/CharanVempala9/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/CharanVempala9/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1768-merge-strings-alternately](https://github.com/CharanVempala9/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/CharanVempala9/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/CharanVempala9/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/CharanVempala9/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1503,6 +1504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/CharanVempala9/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1129-longest-string-chain](https://github.com/CharanVempala9/Leetcode/tree/master/1129-longest-string-chain) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/CharanVempala9/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1768-merge-strings-alternately](https://github.com/CharanVempala9/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/CharanVempala9/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/CharanVempala9/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/CharanVempala9/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
