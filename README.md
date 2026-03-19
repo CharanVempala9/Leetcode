@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/CharanVempala9/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/CharanVempala9/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/CharanVempala9/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/CharanVempala9/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/CharanVempala9/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/CharanVempala9/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/CharanVempala9/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -947,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/CharanVempala9/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2915-count-of-interesting-subarrays](https://github.com/CharanVempala9/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/CharanVempala9/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/CharanVempala9/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/CharanVempala9/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/CharanVempala9/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/CharanVempala9/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -1562,6 +1564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/CharanVempala9/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/CharanVempala9/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2625-increment-submatrices-by-one](https://github.com/CharanVempala9/Leetcode/tree/master/2625-increment-submatrices-by-one) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/CharanVempala9/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/CharanVempala9/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/CharanVempala9/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/CharanVempala9/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
