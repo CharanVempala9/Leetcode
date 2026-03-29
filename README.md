@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/CharanVempala9/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/CharanVempala9/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/CharanVempala9/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2573-find-the-string-with-lcp](https://github.com/CharanVempala9/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2825-minimize-string-length](https://github.com/CharanVempala9/Leetcode/tree/master/2825-minimize-string-length) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/CharanVempala9/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/CharanVempala9/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/CharanVempala9/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2551-apply-operations-to-an-array](https://github.com/CharanVempala9/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/CharanVempala9/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2573-find-the-string-with-lcp](https://github.com/CharanVempala9/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/CharanVempala9/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/CharanVempala9/Leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/CharanVempala9/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -1091,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/CharanVempala9/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/CharanVempala9/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/CharanVempala9/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2573-find-the-string-with-lcp](https://github.com/CharanVempala9/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/CharanVempala9/Leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/CharanVempala9/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/CharanVempala9/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -1466,6 +1469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/CharanVempala9/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/CharanVempala9/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/CharanVempala9/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2573-find-the-string-with-lcp](https://github.com/CharanVempala9/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/CharanVempala9/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/CharanVempala9/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/CharanVempala9/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -1582,6 +1586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/CharanVempala9/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/CharanVempala9/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/CharanVempala9/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2573-find-the-string-with-lcp](https://github.com/CharanVempala9/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/CharanVempala9/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2625-increment-submatrices-by-one](https://github.com/CharanVempala9/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/CharanVempala9/Leetcode/tree/master/2906-construct-product-matrix) |
@@ -2048,6 +2053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/CharanVempala9/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/CharanVempala9/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/CharanVempala9/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Minimum Spanning Tree
